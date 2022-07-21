@@ -804,6 +804,7 @@ textarea.form__input {
 		align-items: stretch;
 		flex-direction: column-reverse;
 		gap: 0;
+		min-height: auto;
 	}
 	.info-contact-us__map {
 		flex: 1 1 auto;
