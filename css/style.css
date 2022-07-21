@@ -713,7 +713,7 @@ textarea.form__input {
 
 
 .info-contact-us__map {
-	flex: 0 0 553px;
+	flex: 0 0 74%;
 	min-height: 617px;
 	position: relative;
 }
@@ -805,7 +805,6 @@ textarea.form__input {
 		align-items: stretch;
 		flex-direction: column-reverse;
 		gap: 0;
-		margin: 0px -15px;
 	}
 	.info-contact-us__map {
 		flex: 1 1 auto;
